@@ -1,0 +1,12 @@
+body {
+  color: #354;
+  font-size: 20px;
+  background: #ccc;
+  line-height: 35px;
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3.5rem;
+}
